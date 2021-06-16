@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Rebuild node modules
+In the project directory, you can run:
+
+### `npm install`
 ## Available Scripts
 
 In the project directory, you can run:
